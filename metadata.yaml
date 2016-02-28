@@ -1,0 +1,32 @@
+_repo: On-a-Dynamical-Top-for-exhibiting-the-phenomena-of-the-motion-of-a-system-of-invariable-form-a__5192
+creator:
+  author:
+    agent_name: Maxwell, James Clerk
+    aliases:
+    - Maxwell, J. Clerk (James Clerk)
+    - Maxwell, J. C. (James Clerk)
+    birthdate: 1831
+    deathdate: 1879
+    gutenberg_agent_id: '1586'
+    url: http://www.gutenberg.org/2009/agents/1586
+    wikipedia: http://en.wikipedia.org/wiki/James_Clerk_Maxwell
+description: ''
+gutenberg_bookshelf:
+- Physics
+- Mathematics
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion'
+- !lcsh 'Force and energy'
+- !lcc 'QA'
+title: On a Dynamical Top, for exhibiting the phenomena of the motion of a system
+  of invariable form about a fixed point, with some suggestions as to the Earth's
+  motion
+url: http://www.gutenberg.org/ebooks/5192
